@@ -1,0 +1,29 @@
+html body{
+margin: 0; padding: 0;
+}
+/*
+colors
+eae2b7
+fcbf49
+f77f00
+d62828
+003049
+*/
+h1{font-family: 'Yanone Kaffeesatz', sans-serif; font-weight: 700; text-transform: uppercase; text-align: center;}
+h1.huge{font-size: 17.2rem;}
+h2{font-family: 'Yanone Kaffeesatz', sans-serif; font-weight: 700; text-transform: uppercase; text-align: center;}
+h2 em.link{background-color: rgba(216, 216, 216, 0.4); padding: 0.4rem 1.2rem;border-radius: 0.8rem; border: 1px solid rgba(16, 16, 16, 0.2);}
+h2 a.link{background-color: rgba(216, 216, 216, 0.4); padding: 0.4rem 1.2rem;border-radius: 0.8rem; border: 1px solid rgba(16, 16, 16, 0.2);color: #171e25;}
+div#nav{background-color: #eae2b7;}
+nav{text-align: right; padding: 0.5em 0;}
+section{padding:40px 0;}
+div.brder{border-top:3px solid rgba(0,0,0,0.05);}
+div#header{background-color: #f8c75c;}
+div#header section{text-align:center;}
+div#what{background-color: #f77f00;}
+div#what section{}
+div#how{background-color: #d62828;}
+div#how section{}
+div#footer{background-color: #003049;}
+div#footer section{text-align:center;}
+img#logo{max-width:66%;margin-top: -7.2rem;}
