@@ -25,5 +25,9 @@ div#what section{}
 div#how{background-color: #d62828;}
 div#how section{}
 div#footer{background-color: #003049;}
-div#footer section{text-align:center;}
+div#footer section{text-align:center; padding:2em;}
+div#footer section ul{list-style: none;}
+div#footer section ul li{float:left;margin: 0 2em 0 0;color: #fff;}
+div#footer section ul li a{color:#fff; text-decoration: underline;}
 img#logo{max-width:66%;margin-top: -9.2rem;}
+iframe{border:5px solid #fff; margin: 1em auto;}
